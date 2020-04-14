@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965471042365",
+    "firebase_url": "https://newtrolleymanager.firebaseio.com",
+    "project_id": "newtrolleymanager",
+    "storage_bucket": "newtrolleymanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965471042365:android:b157481cbbf8448608a354",
+        "android_client_info": {
+          "package_name": "com.example.newtrolleymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965471042365-kioeejq5jet5mjahh062lpsgddhg3b58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newtrolleymanager",
+            "certificate_hash": "765bf107e26a84cf4c991f58a9ac01cf9578712d"
+          }
+        },
+        {
+          "client_id": "965471042365-7mq1kcirg8dbjnq5430veb7imqgpcvhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPMh6bBKv7xCgyx7Ec3Sf52WGSxw1XQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965471042365-7mq1kcirg8dbjnq5430veb7imqgpcvhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

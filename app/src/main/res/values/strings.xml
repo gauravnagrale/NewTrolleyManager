@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TrolleyManager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Trolley Manager</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Basket</string>
+    <string name="menu_slideshow">Set Threshold</string>
+    <string name="menu_tools">Trolley 2</string>
+    <string name="menu_thresh">SetThresh</string>
+    <string name="menu_share">Share</string>
+
+
+    <string-array name="Main">
+        <item> Rice </item>
+        <item> Sugar </item>
+
+
+
+
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+    </string-array>
+</resources>
